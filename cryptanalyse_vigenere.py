@@ -1,10 +1,5 @@
 
 
-#Sorbonne Université 3I024 2021-2022
-# TME 2 : Cryptanalyse du chiffre de Vigenere
-#
-# Etudiant.e 1 : OUAKED Massilva 21212519
-
 
 import sys, getopt, string, math
 
